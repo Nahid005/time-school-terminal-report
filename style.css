@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.terminal-report-section {
+    text-align: center;
+}
+
+.terminal-report-section table{
+    width: 100%;
+}
+
+.terminal-report-section table tr td{
+    min-width: 20px;
+    padding: 5px;
+    border: 1px solid #444;
+}
+
+.header-seciton .academy-header-section {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 34%;
+    margin-bottom: 20px;
+}
+
+.academy-header-section .academy-logo img {
+    width: 100px;
+}
+
+.section-informaion ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.section-informaion ul li {
+    list-style: none;
+}
+
+.terminal-report-section .exam-title h3 {
+    margin: 0;
+    background: #32317d3b;
+    display: inline-block;
+    padding: 5px 20px;
+}
+
+.terminal-report-section .exam-title {
+    margin: 20px 0;
+}
+
+.terminal-report-table table tr th {
+    background: #9ab1b8;
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #444;
+}
+
+.report-footer-section {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.report-footer-section .footer-information {
+    text-align: left;
+}
+
+.report-footer-section .footer-information p{
+    margin: 0;
+    font-size: 14px;
+}
+
+
+/**
+salary card design style end 
+*/
+
+.terminal-report-table table.total-result {
+    margin-top: 20px;
+}
