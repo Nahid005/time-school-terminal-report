@@ -84,3 +84,11 @@ salary card design style end
 .terminal-report-table table.total-result {
     margin-top: 20px;
 }
+
+.terminal-report-table h3 {
+    margin: 0;
+}
+
+.terminal-report-table .section-title {
+    margin-top: 20px;
+}
